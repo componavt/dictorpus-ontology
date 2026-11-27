@@ -9,3 +9,5 @@ __pycache__/
 .venv/
 node_modules/
 /veplex.work
+/codex_safe.sh
+/codex_safe_resume.sh
